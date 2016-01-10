@@ -1,0 +1,5 @@
+KAZE = Named in tribute to Iijima, the father of scale space analysis (from the KAZE 2012 paper)
+
+AKAZE = Accelerated KAZE
+
+ORB = Oriented FAST and Rotated BRIEF
